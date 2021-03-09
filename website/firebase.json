@@ -58,6 +58,11 @@
         "type": 302
       },
       {
+        "source": "/cc",
+        "destination": "http://44.240.253.21",
+        "type": 302
+      },
+      {
         "source": "/claim/:id*",
         "destination": "https://app.poap.xyz/claim/:id",
         "type": 301
