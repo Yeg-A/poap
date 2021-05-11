@@ -13,6 +13,11 @@
         "type": 302
       },
       {
+        "source": "/admin",
+        "destination": "https://app.poap.xyz/admin",
+        "type": 302
+      },
+      {
         "source": "/tombola",
         "destination": "https://poap.xyz/#tombola",
         "type": 302
@@ -49,7 +54,12 @@
       },
       {
         "source": "/discord",
-        "destination": "https://discord.gg/9s8U8Bn",
+        "destination": "https://discord.gg/fcxW4yR",
+        "type": 302
+      },
+      {
+        "source": "/cc",
+        "destination": "http://44.240.253.21",
         "type": 302
       },
       {
